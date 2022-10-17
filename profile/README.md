@@ -1,3 +1,5 @@
+# NSI-Classe-2022-2023
+
 Bonjour à tous, et bienvenue sur l'organisation officielle de la spé NSI promo 2022-2023
 
 J'ai créé cette organisation (en d'autres termes ce groupe) afin de faciliter la communication entre les différents membres et et de pouvoir plus facilement partager des projets que l'on fait entre nous. Par exemple, lorsque notre premier projet sera terminé, je vais open source mon code de ma bataille pour que vous puissiez peut être acquérir de nouvelles connaissances.
